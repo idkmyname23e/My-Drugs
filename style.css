@@ -1,0 +1,92 @@
+header {
+    background-color: #242424;
+    box-shadow: 5px 6px #0059ff;
+    border-radius: 25px;
+    height: 100px;
+    transition-duration: 0.8s;
+    border: 2px solid #0059ff;
+    border-radius: 15px;
+    outline: none;
+    border-color: #008cff;
+    box-shadow: 0 0 60px #0077ff;
+
+}
+
+.glowing-border {
+    border: 2px solid #0059ff;
+    border-radius: 15px;
+    outline: none;
+    border-color: #9ecaed;
+    box-shadow: 0 0 10px #9ecaed;
+}
+
+h1#h1 {
+    color: white;
+    margin-left: 530px;
+    margin-right: -10px;
+    margin-top: 40px;
+    text-align: center;
+    text-decoration: underline #0077ff;
+    display: inline-block;
+
+}
+
+img {
+    height: 30px;
+    margin-top: 25px;
+    margin: 10px;
+    border-radius: 2px;
+}
+
+img#lol {
+    margin-top: 60px;
+    height: 300px;
+    margin-left: 450px;
+    align-items: center;
+    transition-duration: 0.4s;
+    border-radius: 55px;
+    border: 3px solid #0059ff;
+    border-radius: 75px;
+    outline: none;
+    border-color: #00ff00;
+    box-shadow: 0 0 25px #0066ff;
+}
+
+h4#h4 {
+
+    margin-left: 130px;
+    text-decoration: underline #0059ff;
+}
+
+img#menu {
+    height: 20px;
+    margin-top: 20px;
+    margin-left: -215px;
+    transition-duration: 0.4s;
+}
+
+.button {
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 42px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 330px 95px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 5px solid #0059ff;
+    border-radius: 25px;
+    outline: none;
+    border-color: #000000;
+    box-shadow: 0 0 25px #0048ff;
+
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
